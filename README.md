@@ -1,5 +1,6 @@
 # Data Dispatch Node Builder
 
+<<<<<<< HEAD
 This Gluon sample was generated from https://start.gluon.io
 
 ## Basic Requirements
@@ -54,3 +55,6 @@ This is a list of all the features that were selected when creating the sample:
  - Attach device
  - Attach push notifications
  - Attach runtime args
+=======
+JavaFX GUI application for building DDN packages
+>>>>>>> c39d9692e38e8f2942113df7327217e6a6ae1a00

@@ -1,0 +1,8 @@
+[
+    {
+        "name":"org.glassfish.json.JsonProviderImpl",
+        "methods":[
+            {"name":"<init>","parameterTypes":[]}
+        ]
+    }
+]
